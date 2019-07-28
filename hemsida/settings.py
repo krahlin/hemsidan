@@ -26,7 +26,9 @@ SECRET_KEY = 'b9940d83-afbd-4da4-a3ba-29a557914647'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    u'hemsidan.herokuapp.com'
+]
 
 
 # Application definition
