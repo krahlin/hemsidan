@@ -2,4 +2,4 @@ Django==1.11.22
 gunicorn==19.9.0
 pip==6.1.1
 pytz==2019.1
-setuptools==15.0
+setuptools==65.5.1
